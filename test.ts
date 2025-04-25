@@ -1,0 +1,96 @@
+const aaaa = {
+    academicYear
+        :
+        { id: "1", name: "2022-2023", code: "2022-2023", startDate: "2022-09-01T00:00:00.000Z",… }
+academicYearId
+        :
+        "1"
+createdAt
+        :
+        "2025-04-07T16:20:10.208Z"
+deletedAt
+        :
+        null
+id
+        :
+        "1"
+levelIndex
+        :
+        1
+name
+        :
+        "Licence 1"
+programLevels
+        :
+        [{
+            0
+                :
+                { programId: "1", levelId: "1", assignedAt: "2025-04-07T16:20:11.575Z", academicYearId: null,… }
+academicYearId
+                :
+                null
+assignedAt
+                :
+                "2025-04-07T16:20:11.575Z"
+createdAt
+                :
+                "2025-04-07T16:20:11.575Z"
+deletedAt
+                :
+                null
+isActive
+                :
+                true
+levelId
+                :
+                "1"
+program
+                :
+                { id: "1", name: "Tronc Commun", description: "Tronc Commun", sigle: "TC",… }
+createdAt
+                :
+                "2025-04-07T16:20:00.614Z"
+deletedAt
+                :
+                null
+description
+                :
+                "Tronc Commun"
+facultyId
+                :
+                "1"
+feeModelsId
+                :
+                null
+id
+                :
+                "1"
+name
+                :
+                "Tronc Commun"
+programTypeId
+                :
+                "1"
+sigle
+                :
+                "TC"
+updatedAt
+                :
+                "2025-04-07T17:14:42.332Z"
+programId
+                :
+                "1"
+updatedAt
+                :
+                "2025-04-07T16:20:11.575Z"
+        }]
+school_year_id
+        :
+        null
+sigle
+        :
+        "L1"
+updatedAt
+        :
+        "2025-04-08T11:26:08.930Z"
+}
